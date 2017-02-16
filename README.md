@@ -1,4 +1,6 @@
-# personal-trainer-mockup
+# personal-trainer-mockup - most recent project
+
+First of all, this is my most recent project, I just uploaded it first.
 
 This is the first website project I created fully from scratch and is meant to be design practice. Some psd files might look a little differently from the project and that's because I've been testing out different things to see how it would end up.
 
